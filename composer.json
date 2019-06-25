@@ -1,11 +1,11 @@
 {
-    "name": "fungku/hubspot",
+    "name": "nexuslifeline/hubspot",
     "description": "HubSpot PHP API client (wrapper for haPiHP)",
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "fungku",
-            "email": "fungku@gmail.com"
+            "name": "Paul Christian Rueda",
+            "email": "nexuslifeline@gmail.com"
         }
     ],
     "require": {
